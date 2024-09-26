@@ -39,4 +39,9 @@ button {
 
 .spa{
     font-family: Brush Script MT;
+    color: red;
+}
+
+.container h1{
+    color: #007BFF;
 }
